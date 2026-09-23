@@ -15,29 +15,29 @@ My site is an agent that knows everything here and more. [Ask it anything](https
 
 ### Building
 
-<img src="assets/slates.png" width="20" height="20" align="top"> &nbsp;**[Slates](https://github.com/smaranz/slates)** &nbsp;A personal operating system for school.
+<img src="assets/slates.png" alt="" width="20" height="20" align="top"> &nbsp;**[Slates](https://github.com/smaranz/slates)** &nbsp;A personal operating system for school.
 
-<img src="assets/probe.png" width="20" height="20" align="top"> &nbsp;**[Probe](https://github.com/smaranz/trueforgehackathon)** &nbsp;Your first team of users, before your real users.
+<img src="assets/probe.png" alt="" width="20" height="20" align="top"> &nbsp;**[Probe](https://github.com/smaranz/trueforgehackathon)** &nbsp;Your first team of users, before your real users.
 
-<img src="assets/publick.png" width="20" height="20" align="top"> &nbsp;**[Publick](https://www.publick.app/)** &nbsp;Honest answers, campus intel, and the people who already figured it out.
+<img src="assets/publick.png" alt="" width="20" height="20" align="top"> &nbsp;**[Publick](https://www.publick.app/)** &nbsp;Honest answers, campus intel, and the people who already figured it out.
 
-<img src="assets/essaylens.png" width="20" height="20" align="top"> &nbsp;**[EssayLens](https://www.essaylens.app/)** &nbsp;Essay feedback, graded the way professors actually grade.
+<img src="assets/essaylens.png" alt="" width="20" height="20" align="top"> &nbsp;**[EssayLens](https://www.essaylens.app/)** &nbsp;Essay feedback, graded the way professors actually grade.
 
 <br>
 
 ### Shipped
 
-<img src="assets/trendpilot.png" width="20" height="20" align="top"> &nbsp;**[TrendPilot](https://github.com/smaranz/trendpilot)** &nbsp;An AI trend radar that turns rising signals into Shorts.
+<img src="assets/trendpilot.png" alt="" width="20" height="20" align="top"> &nbsp;**[TrendPilot](https://github.com/smaranz/trendpilot)** &nbsp;An AI trend radar that turns rising signals into Shorts.
 
-<img src="assets/clippilot.png" width="20" height="20" align="top"> &nbsp;**[ClipPilot](https://github.com/smaranz/clippilot)** &nbsp;An autonomous shorts factory with no human in the loop.
+<img src="assets/clippilot.png" alt="" width="20" height="20" align="top"> &nbsp;**[ClipPilot](https://github.com/smaranz/clippilot)** &nbsp;An autonomous shorts factory with no human in the loop.
 
-<img src="assets/classflow.png" width="20" height="20" align="top"> &nbsp;**[ClassFlow](https://classflow-ashen.vercel.app)** &nbsp;An AI student copilot built on top of Google Classroom.
+<img src="assets/classflow.png" alt="" width="20" height="20" align="top"> &nbsp;**[ClassFlow](https://classflow-ashen.vercel.app)** &nbsp;An AI student copilot built on top of Google Classroom.
 
-<img src="assets/wingman.png" width="20" height="20" align="top"> &nbsp;**[Wingman](https://github.com/rnankani/Wingman)** &nbsp;Your agent talks to their agent, and never says more than you allowed.
+<img src="assets/wingman.png" alt="" width="20" height="20" align="top"> &nbsp;**[Wingman](https://github.com/rnankani/Wingman)** &nbsp;Your agent talks to their agent, and never says more than you allowed.
 
-<img src="assets/testimer.png" width="20" height="20" align="top"> &nbsp;**[Testimer](https://testimer.vercel.app)** &nbsp;A study planner with a single-focus timer.
+<img src="assets/testimer.png" alt="" width="20" height="20" align="top"> &nbsp;**[Testimer](https://testimer.vercel.app)** &nbsp;A study planner with a single-focus timer.
 
-<img src="assets/notchy.png" width="20" height="20" align="top"> &nbsp;**[Notchy](https://github.com/smaranz/notchy)** &nbsp;A free, open-source utility hub for the MacBook notch.
+<img src="assets/notchy.png" alt="" width="20" height="20" align="top"> &nbsp;**[Notchy](https://github.com/smaranz/notchy)** &nbsp;A free, open-source utility hub for the MacBook notch.
 
 <br>
 
