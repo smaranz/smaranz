@@ -19,7 +19,7 @@ My site is an agent that knows everything here and more. [Ask it anything](https
 
 <img src="assets/probe.png" alt="" width="20" height="20" align="top"> &nbsp;**[Probe](https://github.com/smaranz/trueforgehackathon)** &nbsp;Your first team of users, before your real users.
 
-<img src="assets/publick.png" alt="" width="20" height="20" align="top"> &nbsp;**[Publick](https://www.publick.app/)** &nbsp;Honest answers, campus intel, and the people who already figured it out.
+<img src="assets/publick.png" alt="" width="20" height="20" align="top"> &nbsp;**[Publick](https://www.publick.app/)** &nbsp;Co-founder. Honest answers, campus intel, and the people who already figured it out.
 
 <img src="assets/essaylens.png" alt="" width="20" height="20" align="top"> &nbsp;**[EssayLens](https://www.essaylens.app/)** &nbsp;Essay feedback, graded the way professors actually grade.
 
