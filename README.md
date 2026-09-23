@@ -27,7 +27,7 @@ My site is an agent that knows everything here and more. [Ask it anything](https
 
 ### Shipped
 
-<img src="assets/trendpilot.png" alt="" width="20" height="20" align="top"> &nbsp;**[TrendPilot](https://github.com/smaranz/trendpilot)** &nbsp;An AI trend radar that turns rising signals into Shorts.
+<img src="assets/trendpilot.png" alt="" width="20" height="20" align="top"> &nbsp;**[TrendPilot](https://github.com/smaranz/trendpilot)** &nbsp;Hackathon winner. An AI trend radar that turns rising signals into Shorts.
 
 <img src="assets/clippilot.png" alt="" width="20" height="20" align="top"> &nbsp;**[ClipPilot](https://github.com/smaranz/clippilot)** &nbsp;An autonomous shorts factory with no human in the loop.
 
