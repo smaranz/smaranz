@@ -41,11 +41,11 @@ My site is an agent that knows everything here and more. [Ask it anything](https
 
 <br>
 
-### Running
+### Leading
 
 **CodeStarters** &nbsp;Founder and president. A student nonprofit that teaches CS and AI to younger kids and builds free sites for small businesses.
 
-**FireHacks** &nbsp;Lead organizer. CodeStarters' free 24-hour hackathon, open to every skill level.
+**FireHacks** &nbsp;Lead organizer, August 2026. CodeStarters' free 24-hour hackathon, open to every skill level.
 
 **FBLA** &nbsp;AI Development Co-Lead for my chapter. 2nd at States and a Nationals qualifier as a freshman, and the only competitor to build a native Swift app.
 
